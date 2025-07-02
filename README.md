@@ -6,6 +6,7 @@ This project demonstrates real-time video analytics using Intel® DL Streamer wi
 
 ## Repository Structure
 intel-dlstreamer-project/
+
 ├── dlstreamer_input/ # Test videos and live_dashboard.py (Python dashboard)
 
 ├── camera1_logs/ # JSON output logs from camera 1 stream
